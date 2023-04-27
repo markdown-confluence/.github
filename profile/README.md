@@ -5,7 +5,9 @@
 - Docker CLI https://github.com/orgs/markdown-confluence/packages/container/package/publish
 - NPM Package https://www.npmjs.com/package/@markdown-confluence/lib
 - GitHub Action https://github.com/markdown-confluence/action
-- Mermaid Rendering Support (Electron, Puppeteer)
+- Mermaid Rendering Support
+  - Electron (Used in Obsidian) https://github.com/markdown-confluence/markdown-confluence/tree/main/packages/mermaid-electron-renderer
+  - Puppeteer (Used by CLI/Lib) https://github.com/markdown-confluence/markdown-confluence/tree/main/packages/mermaid-puppeteer-renderer
 
 # Documentation 
 ## Obsidian.md Plugin
