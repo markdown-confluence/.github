@@ -11,7 +11,9 @@
 
 # Documentation 
 ## Obsidian.md Plugin
-https://obsidian-confluence.com/
+Package: https://github.com/obsidianmd/obsidian-releases/pull/1867 (Once this PR is merged you can use https://obsidian.md/plugins?id=confluence-integration)
+Documentation: https://obsidian-confluence.com/  
+Source Code: https://github.com/markdown-confluence/markdown-confluence/tree/main/packages/obsidian
 
 ## GitHub Action
 Package: https://github.com/markdown-confluence/action  
@@ -19,13 +21,17 @@ Documentation: https://markdown-confluence.com/usage/github_action.html
 
 ## NPM CLI 
 Package: https://www.npmjs.com/package/@markdown-confluence/cli  
-Documentation: https://markdown-confluence.com/usage/cli.html
+Documentation: https://markdown-confluence.com/usage/cli.html  
+Source Code: https://github.com/markdown-confluence/markdown-confluence/tree/main/packages/cli
 
 ## NPM Library 
 Package: https://www.npmjs.com/package/@markdown-confluence/lib  
-Documentation: https://markdown-confluence.com/usage/node-library.html
+Documentation: https://markdown-confluence.com/usage/node-library.html  
+Source Code: https://github.com/markdown-confluence/markdown-confluence/tree/main/packages/lib
 
-## Docker CLI 
+## Docker CLI
+### (Published from the NPM CLI)
 Package: https://github.com/markdown-confluence/markdown-confluence/pkgs/container/publish  
 Documentation: https://markdown-confluence.com/usage/docker.html
+Source Code: https://github.com/markdown-confluence/markdown-confluence/tree/main/packages/cli
 
