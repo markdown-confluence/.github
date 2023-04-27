@@ -1,7 +1,7 @@
 # Markdown to Confluence Integrations
 
 ## Obsidian.md Plugin
-Package: https://github.com/obsidianmd/obsidian-releases/pull/1867 (Once this PR is merged you can use https://obsidian.md/plugins?id=confluence-integration)
+Package: https://github.com/obsidianmd/obsidian-releases/pull/1867 (Once this PR is merged you can use https://obsidian.md/plugins?id=confluence-integration)  
 Documentation: https://obsidian-confluence.com/  
 Source Code: https://github.com/markdown-confluence/markdown-confluence/tree/main/packages/obsidian
 
