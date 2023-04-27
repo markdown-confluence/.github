@@ -21,7 +21,7 @@ Source Code: https://github.com/markdown-confluence/markdown-confluence/tree/mai
 
 ## Docker CLI (Published from the NPM CLI)
 Package: https://github.com/markdown-confluence/markdown-confluence/pkgs/container/publish  
-Documentation: https://markdown-confluence.com/usage/docker.html
+Documentation: https://markdown-confluence.com/usage/docker.html  
 Source Code: https://github.com/markdown-confluence/markdown-confluence/tree/main/packages/cli
 
 ## Mermaid Rendering Support
