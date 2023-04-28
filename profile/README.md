@@ -1,5 +1,9 @@
 # Markdown to Confluence Integrations
 
+Examples:
+- https://markdown-confluence.atlassian.net/wiki/spaces/docs/overview (From https://github.com/markdown-confluence/docs-markdown-confluence)
+- https://markdown-confluence.atlassian.net/wiki/spaces/Obsidian/overview (From https://github.com/markdown-confluence/docs-obsidian-confluence)
+
 ## Obsidian.md Plugin
 Package: https://github.com/obsidianmd/obsidian-releases/pull/1867 (Once this PR is merged you can use https://obsidian.md/plugins?id=confluence-integration)  
 Documentation: https://obsidian-confluence.com/  
@@ -8,6 +12,9 @@ Source Code: https://github.com/markdown-confluence/markdown-confluence/tree/mai
 ## GitHub Action
 Package: https://github.com/markdown-confluence/action  
 Documentation: https://markdown-confluence.com/usage/github_action.html
+Examples:
+- https://github.com/markdown-confluence/docs-markdown-confluence
+- https://github.com/markdown-confluence/docs-obsidian-confluence
 
 ## NPM CLI 
 Package: https://www.npmjs.com/package/@markdown-confluence/cli  
