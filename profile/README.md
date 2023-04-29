@@ -10,8 +10,9 @@ Documentation: https://obsidian-confluence.com/
 Source Code: https://github.com/markdown-confluence/markdown-confluence/tree/main/packages/obsidian
 
 ## GitHub Action
-Package: https://github.com/markdown-confluence/action  
-Documentation: https://markdown-confluence.com/usage/github_action.html
+Package: https://github.com/marketplace/actions/markdown-confluence  
+Documentation: https://markdown-confluence.com/usage/github_action.html  
+Source Code: https://github.com/markdown-confluence/action  
 Examples:
 - https://github.com/markdown-confluence/docs-markdown-confluence
 - https://github.com/markdown-confluence/docs-obsidian-confluence
