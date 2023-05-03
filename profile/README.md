@@ -1,4 +1,4 @@
-# Markdown to Confluence Integrations
+# Markdown to Confluence Tools
 
 Examples:
 - https://markdown-confluence.atlassian.net/wiki/spaces/docs/overview (From https://github.com/markdown-confluence/docs-markdown-confluence)
