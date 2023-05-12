@@ -5,7 +5,10 @@ Examples:
 - https://markdown-confluence.atlassian.net/wiki/spaces/Obsidian/overview (From https://github.com/markdown-confluence/docs-obsidian-confluence)
 
 ## Obsidian.md Plugin
-Package: https://obsidian.md/plugins?id=confluence-integration https://obsidian.md/plugins?search=confluence%20integration
+Package: 
+- https://obsidian.md/plugins?id=confluence-integration 
+- https://obsidian.md/plugins?search=confluence%20integration  
+
 Installed From: https://github.com/markdown-confluence/obsidian-integration  
 Documentation: https://obsidian-confluence.com/  
 Source Code: https://github.com/markdown-confluence/markdown-confluence/tree/main/packages/obsidian
